@@ -1,31 +1,42 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Experience
-**Data Scientist @ Elutions Inc (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist @ Elutions Inc (_Jul 2023 – Present_)**
+- Lead a team of six in data analysis and modeling to optimize energy consumption across a campus serving
+20,000+ occupants, achieving efficiency improvements by 20%
+- Spearhead the development of an automated MLOps AI platform with a team of three, reducing manual
+intervention by 40% and accelerating the end-to-end data science lifecycle
+- Conduct survival analysis on operational data to model the time-to-failure of machinery, improving preventive
+maintenance scheduling and reducing downtime by 25%
+- Implement model testing and monitoring procedures to ensure continuous, real-time predictions for clients
+- Define and validated client-specific metrics using statistical tests to ensure reliable and actionable analytical outcomes
 
-**Data Scientist @ The Centre of Applied Data Science (_December 2020 - Present_)**
+**PNC Financial Services Group, Inc. Data Scientist, Capstone Project (Jan 2023 – May 2023)**
+- Created a multi-product forecasting application capable of receiving several time series data via API,
+generating accurate forecasts with performance metrics and feature importance for actionable insights
+- Built and optimized time series models (SARIMA, XGBoost, NeuralProphet) with a mean absolute
+percentage error (MAPE) of less than 20%, ensuring robust and reliable predictions
+
+**Remake Learning Data Analyst, Social Good (Oct 2022 – Jan 2023)**
+- Developed interactive dashboards visualizing crucial metrics, devised strategic approaches for organization to understand yearly expenditure distribution and optimize spendings
+- Implemented A/B testing to evaluate the effectiveness of various dashboard designs and metrics, leading to
+optimized user engagement and actionable insights
+
+**Data Scientist @ The Center of Applied Data Science (_Dec 2021 – Jul 2022_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Education						       		
-- M.Sc., Data Analytics	| Carnegie Mellon University (_December 2019_)	 			        		
-- B.Sc., Physics | Imperial College London (_May 2017_)
+- M.Sc., Data Analytics	| Carnegie Mellon University (_Pittsburgh, Pennsylvania_)	 			        		
+- B.Sc., Physics | Imperial College London (_London, UK_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### “Blockchain Series 2: Pros and Cons
+[Publication](https://www.myfint.org/post/blockchain-series-2-pros-and-cons)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
