@@ -28,8 +28,8 @@ optimized user engagement and actionable insights
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Education						       		
-- M.Sc., Data Analytics	| Carnegie Mellon University (_Pittsburgh, Pennsylvania_)	 			        		
-- B.Sc., Physics | Imperial College London (_London, UK_)
+- ![CMU](/assets/img/CMU_logo.png) M.Sc., Data Analytics	| Carnegie Mellon University (_Pittsburgh, Pennsylvania_)	 			        		
+- ![Imperial](/assets/img/imperial_college_logo.png) B.Sc., Physics | Imperial College London (_London, UK_)
 
 ## Projects
 ### “Blockchain Series 2: Pros and Cons
