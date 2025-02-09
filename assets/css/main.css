@@ -3882,12 +3882,13 @@ input, select, textarea {
 
 	.profile-container img {
 		position: relative;
-		width: 32vh;
 		border-radius: 50%;
 		border: 5px solid white;
-		width: 5px;
-		height: 5px;
+		width: 300px;
+		height: 300px;
 		margin-bottom: 15px;
+		/* top: 150px;  Moves the box up */
+		/* left: 350px;  Moves the box 30px right */
 	  }
 
 		#intro p {
